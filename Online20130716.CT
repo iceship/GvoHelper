@@ -1,0 +1,5281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="14">
+  <Forms>
+    <UDF1>0B63606008097033600F717675CB2FCA650975713364F1494D2B61766464F348CD4CCF2861FEC0C01C925FC014CF1A9E995292C1ECC0C8EE9C585092999FC70656CEC001D41C92999B5AC401A50D81A60200</UDF1>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2370</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2371</ID>
+          <Description>"文字訊息Addr"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9D4E24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2372</ID>
+          <Description>"文字訊息 &gt;1 有文字"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9D4E2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2373</ID>
+          <Description>"忙碌中"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9D5188</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2359</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2360</ID>
+          <Description>"(1-劇情 2-陸戰 4-)"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D519C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2361</ID>
+          <Description>"海域座標PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D51A0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2362</ID>
+              <Description>"海域座標X"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9D51A0</Address>
+              <Offsets>
+                <Offset>12C</Offset>
+                <Offset>4</Offset>
+                <Offset>408</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2363</ID>
+              <Description>"海域座標Y"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9D51A0</Address>
+              <Offsets>
+                <Offset>130</Offset>
+                <Offset>4</Offset>
+                <Offset>408</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2364</ID>
+          <Description>"有視窗出現"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D51A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2365</ID>
+          <Description>"TAB目標type"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9D51B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2366</ID>
+          <Description>"TAB目標ID"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D51BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2367</ID>
+          <Description>"TAB目標按鈕數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D520C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2368</ID>
+          <Description>"視窗底層欄位址2PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D55FC</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2369</ID>
+              <Description>"視窗底層欄位址2"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9D55FC</Address>
+              <Offsets>
+                <Offset>20</Offset>
+                <Offset>20</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2357</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2358</ID>
+          <Description>"1-場景切換 2-斷線"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D5C88</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2352</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2353</ID>
+          <Description>"物資-保存的數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D7348</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2354</ID>
+          <Description>"物資-保存的數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D734C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2355</ID>
+          <Description>"資材-保存的數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D7350</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2356</ID>
+          <Description>"彈藥-保存的數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D7354</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2333</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2334</ID>
+          <Description>"call用ecx相關?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D8D30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2335</ID>
+          <Description>"1-左鍵 2-右鍵"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D8D50</Address>
+          <Offsets>
+            <Offset>100</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2336</ID>
+          <Description>"視窗focus"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9D8DE0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2337</ID>
+          <Description>"call用ecx"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA718</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2338</ID>
+          <Description>"連線狀態"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA74C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2339</ID>
+          <Description>"??"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA754</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2340</ID>
+          <Description>"socket相關?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA75C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2341</ID>
+          <Description>"伺服器名PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA7E4</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2342</ID>
+              <Description>"伺服器名"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DA7E4</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2343</ID>
+          <Description>"選擇角色-角色名PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA7E8</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2344</ID>
+              <Description>"選擇角色-角色名"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DA7E8</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2345</ID>
+          <Description>"和座標有關?"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA7F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2346</ID>
+          <Description>"玩家ID"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA7F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2347</ID>
+          <Description>"狀態設定"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA800</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2348</ID>
+          <Description>"海上狀況"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA804</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2349</ID>
+          <Description>"自動操帆狀態"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA809</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2350</ID>
+          <Description>"遊戲中角色名PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA81C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2351</ID>
+              <Description>"遊戲中角色名"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DA81C</Address>
+              <Offsets>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2327</ID>
+      <Description>"OFFSET =&gt; 23060"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2328</ID>
+          <Description>"戰等"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA828</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2329</ID>
+          <Description>"商等"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA829</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2330</ID>
+          <Description>"冒等"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA82A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2331</ID>
+          <Description>"爵位"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA82B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2332</ID>
+          <Description>"國籍"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA82E</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2323</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2324</ID>
+          <Description>"冒exp"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA858</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2325</ID>
+          <Description>"商exp"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA85C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2326</ID>
+          <Description>"戰exp"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA860</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2115</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2116</ID>
+          <Description>"肉搏戰目標ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA890</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2117</ID>
+          <Description>"行動力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2118</ID>
+          <Description>"MAX行動力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2119</ID>
+          <Description>"持有金錢"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2120</ID>
+          <Description>"船員數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2121</ID>
+          <Description>"疲勞度/10"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2122</ID>
+          <Description>"水"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8B2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2123</ID>
+          <Description>"糧食"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2124</ID>
+          <Description>"彈藥"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8B6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2125</ID>
+          <Description>"資材"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2126</ID>
+          <Description>"船隻耐久度"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DA8BA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2127</ID>
+          <Description>"船舵損壞128 船帆破損1~7"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA8CB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2128</ID>
+          <Description>"0-正常 1~-無法航行"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DA8CC</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2104</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2105</ID>
+          <Description>"座標X"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA8E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2106</ID>
+          <Description>"座標Z"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA8EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2107</ID>
+          <Description>"座標Y"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA8F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2108</ID>
+          <Description>"COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA8F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2109</ID>
+          <Description>"SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA900</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2110</ID>
+          <Description>"目地座標X"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA908</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2111</ID>
+          <Description>"目地座標Z"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA90C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2112</ID>
+          <Description>"目地座標Y"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA910</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2113</ID>
+          <Description>"目地COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA918</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2114</ID>
+          <Description>"目地SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DA920</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1833</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1754</ID>
+          <Description>"人物動作 1-小跑步 2-大跑步"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAB74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1753</ID>
+          <Description>"人物動作"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAB78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1752</ID>
+          <Description>"MAX耐久度"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1751</ID>
+          <Description>"最大船員數"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC16</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1750</ID>
+          <Description>"必要船員數"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1749</ID>
+          <Description>"船倉總大小"</Description>
+          <Color>80000008</Color>
+          <VariableType>2 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC1A</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1891</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1892</ID>
+          <Description>"陸地跟隨ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1893</ID>
+          <Description>"船帆狀態 0-停船 1 2 3 4-全帆"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAC7C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1894</ID>
+          <Description>"海上跟隨ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DACE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1895</ID>
+          <Description>"移動CALL用(鍵盤)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD3C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1919</ID>
+              <Description>"陸地移動X"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>D0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1917</ID>
+              <Description>"陸地移動Y"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>D8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1916</ID>
+              <Description>"陸地移動COS"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>E0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1912</ID>
+              <Description>"陸地移動SIN"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>E8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1910</ID>
+              <Description>"陸地移動"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>FC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1896</ID>
+              <Description>"COS"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>F4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1897</ID>
+              <Description>"SIN"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>FC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1898</ID>
+              <Description>"海上移動COS"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>104</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1907</ID>
+              <Description>"海上移動SIN"</Description>
+              <Color>80000008</Color>
+              <VariableType>Float</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>10C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1911</ID>
+              <Description>"海上移動"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DAD3C</Address>
+              <Offsets>
+                <Offset>114</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1901</ID>
+          <Description>"活動對象Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1902</ID>
+          <Description>"目前場景的活動對象數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1903</ID>
+          <Description>"固定對象Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1904</ID>
+          <Description>"目前場景的固定對象數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD6C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1920</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1921</ID>
+          <Description>"城市海域PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD84</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1922</ID>
+              <Description>"城市海域名"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>30</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAD84</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1923</ID>
+              <Description>"地下城名"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>30</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAD84</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>80</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1924</ID>
+          <Description>"城市海域PTR(上一層)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAD88</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1925</ID>
+              <Description>"城市海域名(上一層)"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>30</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAD88</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1905</ID>
+      <Description>"OFFSET =&gt; 23064"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1939</ID>
+          <Description>"地圖編號"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAE2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1938</ID>
+          <Description>"城市、海域編號"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DAE2E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1937</ID>
+          <Description>"場景"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DAE2F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1940</ID>
+          <Description>"艦隊PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAE34</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1941</ID>
+              <Description>"隊友1 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1942</ID>
+              <Description>"隊友1 NAME"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>10</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1943</ID>
+              <Description>"隊友2 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>C</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1944</ID>
+              <Description>"隊友2 NAME"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1945</ID>
+              <Description>"隊友3 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>C</Offset>
+                <Offset>0</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1946</ID>
+              <Description>"隊友3 NAME"</Description>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>10</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9DAE34</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>10</Offset>
+                <Offset>0</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1947</ID>
+          <Description>"探險領隊"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DAE9C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2443</ID>
+      <Description>"OFFSET 1000 =&gt; BDD68 =&gt; 14220"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2444</ID>
+          <Description>"技能名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB330</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2445</ID>
+          <Description>"交易品類型Base2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB3BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2446</ID>
+          <Description>"交易品類型Base1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB3D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2447</ID>
+          <Description>"配方Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB410</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2448</ID>
+          <Description>"場景名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB49C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2449</ID>
+          <Description>"道具、裝備、交易品名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DB854</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2456</ID>
+      <Description>"OFFSET 1000 =&gt; BDD68 =&gt; 14220"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2457</ID>
+          <Description>"技能名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B82CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2458</ID>
+          <Description>"交易品類型Base2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B8358</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2459</ID>
+          <Description>"交易品類型Base1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B8374</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2460</ID>
+          <Description>"配方Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B83AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2461</ID>
+          <Description>"場景名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B8438</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2462</ID>
+          <Description>"道具、裝備、交易品名稱Base"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9B87F0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1979</ID>
+      <Description>"OFFSET =&gt; 230C0"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1980</ID>
+          <Description>"戰鬥標誌"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DBBD4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1981</ID>
+          <Description>"友方提督ID"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DBC40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1982</ID>
+          <Description>"敵方提督ID"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DBC44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2249</ID>
+          <Description>"友方ID1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DBC54</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2250</ID>
+              <Description>"血量"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2251</ID>
+              <Description>"MAX血量"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC5C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2252</ID>
+              <Description>"攻擊力"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC6C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2253</ID>
+              <Description>"防禦力"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2254</ID>
+              <Description>"戰等"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC7C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2255</ID>
+              <Description>"人物狀態"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC80</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2256</ID>
+              <Description>"狀態小圖案"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC84</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2257</ID>
+              <Description>"使用技巧狀態"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2258</ID>
+              <Description>"人物動作"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBC98</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2259</ID>
+              <Description>"行動力MAX"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBCA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2260</ID>
+              <Description>"行動力"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DBCA4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2277</ID>
+          <Description>"敵方ID1"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DD03C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2278</ID>
+              <Description>"敵方血量"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC040</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2279</ID>
+              <Description>"敵方MAX血量"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC044</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2280</ID>
+              <Description>"敵方攻擊力"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC054</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2281</ID>
+              <Description>"敵方防禦力"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC058</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2282</ID>
+              <Description>"敵方人物狀態"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC068</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2283</ID>
+              <Description>"敵方狀態小圖案"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC06C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2284</ID>
+              <Description>"敵方使用技巧狀態"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DC070</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2160</ID>
+      <Description>"OFFSET =&gt; 230C0"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2161</ID>
+          <Description>"風向COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DD934</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2162</ID>
+          <Description>"風向SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DD93C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2163</ID>
+          <Description>"潮流COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DD944</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2164</ID>
+          <Description>"潮流SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+9DD94C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2165</ID>
+          <Description>"風速"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DD954</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2166</ID>
+          <Description>"潮流"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DD955</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2167</ID>
+          <Description>"波浪"</Description>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DD956</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2168</ID>
+          <Description>"天氣"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>GVOnline.bin+9DD959</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2169</ID>
+          <Description>"航行天數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DD95C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2314</ID>
+      <Description>"OFFSET"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2310</ID>
+          <Description>"地下城Code Addr"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9DDBB0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2311</ID>
+              <Description>"地下城Code"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9DDBB0</Address>
+              <Offsets>
+                <Offset>30</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2315</ID>
+          <Description>"地下城Code Addr"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90B960</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2316</ID>
+              <Description>"地下城Code"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+90B960</Address>
+              <Offsets>
+                <Offset>28</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2287</ID>
+          <Description>"14-斷線"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90BC28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2288</ID>
+          <Description>"角色身上跳出的訊息PTR頭"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D238</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2289</ID>
+              <Description>"文字編號"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+90D238</Address>
+              <Offsets>
+                <Offset>30</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2290</ID>
+          <Description>"角色身上跳出的訊息PTR尾"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D23C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2291</ID>
+          <Description>"角色身上跳出的訊息"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D240</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2292</ID>
+          <Description>"LOG頭PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D2C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2293</ID>
+          <Description>"LOG尾PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D2CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2294</ID>
+          <Description>"LOG內容PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+90D444</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2295</ID>
+          <Description>"跳出的訊息框PTR頭"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9125C0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2296</ID>
+              <Description>"跳出的訊息框(物品ID)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9125C0</Address>
+              <Offsets>
+                <Offset>24</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2297</ID>
+              <Description>"跳出的訊息框(物品數量)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9125C0</Address>
+              <Offsets>
+                <Offset>28</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2298</ID>
+              <Description>"跳出的訊息框文字"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>20</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+9125C0</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>20</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2299</ID>
+          <Description>"跳出的訊息框PTR尾"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9125C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2300</ID>
+          <Description>"跳出的訊息框"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9125C8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2463</ID>
+      <Description>"OFFSET"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2464</ID>
+          <Description>"地下城Code Addr"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9BAAE4</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2465</ID>
+              <Description>"地下城Code"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+9BAAE4</Address>
+              <Offsets>
+                <Offset>30</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2466</ID>
+          <Description>"地下城Code Addr"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8894</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2467</ID>
+              <Description>"地下城Code"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+8E8894</Address>
+              <Offsets>
+                <Offset>28</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2468</ID>
+          <Description>"14-斷線"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8B5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2469</ID>
+          <Description>"角色身上跳出的訊息PTR頭"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA16C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2470</ID>
+              <Description>"文字編號"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+8EA16C</Address>
+              <Offsets>
+                <Offset>30</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2471</ID>
+          <Description>"角色身上跳出的訊息PTR尾"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA170</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2472</ID>
+          <Description>"角色身上跳出的訊息"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA174</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2473</ID>
+          <Description>"LOG頭PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA1FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2474</ID>
+          <Description>"LOG尾PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA200</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2475</ID>
+          <Description>"LOG內容PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA378</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2476</ID>
+          <Description>"跳出的訊息框PTR頭"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EF4F4</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2477</ID>
+              <Description>"跳出的訊息框(物品ID)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+8EF4F4</Address>
+              <Offsets>
+                <Offset>24</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2478</ID>
+              <Description>"跳出的訊息框(物品數量)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+8EF4F4</Address>
+              <Offsets>
+                <Offset>28</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2479</ID>
+              <Description>"跳出的訊息框文字"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>String</VariableType>
+              <Length>20</Length>
+              <Unicode>1</Unicode>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>GVOnline.bin+8EF4F4</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>20</Offset>
+                <Offset>8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2480</ID>
+          <Description>"跳出的訊息框PTR尾"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EF4F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2481</ID>
+          <Description>"跳出的訊息框"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EF4FC</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2450</ID>
+      <Description>"OFFSET =&gt; 231D0"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2451</ID>
+          <Description>"使用中技能數PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A45AB0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2452</ID>
+              <Description>"技能1 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A45AB0</Address>
+              <Offsets>
+                <Offset>C</Offset>
+                <Offset>2C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2453</ID>
+              <Description>"技能2 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A45AB0</Address>
+              <Offsets>
+                <Offset>14</Offset>
+                <Offset>2C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2454</ID>
+              <Description>"技能3 ID"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A45AB0</Address>
+              <Offsets>
+                <Offset>1C</Offset>
+                <Offset>2C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>2455</ID>
+              <Description>"使用中技能數"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A45AB0</Address>
+              <Offsets>
+                <Offset>38</Offset>
+                <Offset>2C</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2193</ID>
+      <Description>"OFFSET =&gt; 231C0"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2194</ID>
+          <Description>"封包 PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A473F0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2195</ID>
+              <Description>"加密封包data"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A473F0</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>1C8</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2196</ID>
+          <Description>"基本位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52018</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2197</ID>
+          <Description>"基本位址2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A5201C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2198</ID>
+          <Description>"滑鼠所指的位址"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52024</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2236</ID>
+          <Description>"?????=基本位址2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52028</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2199</ID>
+          <Description>"視窗底層欄位址1PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52098</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2200</ID>
+              <Description>"視窗底層欄位址1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A52098</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>2201</ID>
+                  <Description>"CHECK"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <Color>80000008</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>GVOnline.bin+A52098</Address>
+                  <Offsets>
+                    <Offset>0</Offset>
+                    <Offset>8</Offset>
+                    <Offset>0</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2202</ID>
+          <Description>"視窗多層欄位址1PTR"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A5209C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2203</ID>
+              <Description>"視窗多層欄位址1"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+A5209C</Address>
+              <Offsets>
+                <Offset>8</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>2204</ID>
+                  <Description>"CHECK"</Description>
+                  <ShowAsHex>1</ShowAsHex>
+                  <Color>80000008</Color>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>GVOnline.bin+A5209C</Address>
+                  <Offsets>
+                    <Offset>0</Offset>
+                    <Offset>8</Offset>
+                    <Offset>4</Offset>
+                  </Offsets>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2205</ID>
+          <Description>"視窗共幾層"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A520A0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2026</ID>
+      <Description>"==基本位址1 OFFSET"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2483</ID>
+          <Description>"基本位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52018</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2485</ID>
+          <Description>"閱讀連續"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A52018</Address>
+          <Offsets>
+            <Offset>914</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2024</ID>
+      <Description>"==基本位址2 OFFSET"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2482</ID>
+          <Description>"基本位址2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A5201C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2484</ID>
+          <Description>"基本位址2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+A5201C</Address>
+          <Offsets>
+            <Offset>90</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1970</ID>
+      <Description>"OFFSET 1000 =&gt; BDD4C"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1978</ID>
+      <Description>"OFFSET 1000 =&gt; BDD4C"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1969</ID>
+      <Description>"OFFSET 1000 =&gt; BDD44"</Description>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2087</ID>
+      <Description>"基本位址2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A1BCFC</Address>
+      <Offsets>
+        <Offset>2D4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1717</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>6D8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1718</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>6D8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2090</ID>
+      <Description>"基本位址1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A1BCF8</Address>
+      <Offsets>
+        <Offset>A38</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1719</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>6D8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>723</ID>
+      <Description>"可能是裝備相關"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92DA48</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>172</ID>
+      <Description>"持有船隻1編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>100</Offset>
+        <Offset>5E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>173</ID>
+      <Description>"持有船隻2編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>200</Offset>
+        <Offset>5E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>174</ID>
+      <Description>"持有船隻3編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>300</Offset>
+        <Offset>5E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1188</ID>
+      <Description>"持有船隻4編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>400</Offset>
+        <Offset>5E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>192</ID>
+      <Description>"蝚砌??????"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>668</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>193</ID>
+      <Description>"蝚砌?????憭扯頃鞎琿?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>18</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>668</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1254</ID>
+      <Description>"跳出的訊息框(物品描述)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>1</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>GVOnline.bin+8EF4F4</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>34</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>217</ID>
+      <Description>"選擇第N委託"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>2DC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>735</ID>
+      <Description>"銀行保險箱"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D91C</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>5F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>736</ID>
+      <Description>"銀行保險箱"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D924</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>5F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>186</ID>
+      <Description>"陳列品1 倍數價格1"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>24</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>187</ID>
+      <Description>"陳列品1 倍數價格2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>24</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>188</ID>
+      <Description>"陳列品1 倍數價格3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>0</Offset>
+        <Offset>24</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>185</ID>
+      <Description>"陳列品1 單價"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>18</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>184</ID>
+      <Description>"陳列品1 最大購買量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>189</ID>
+      <Description>"陳列品2 ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>668</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1704</ID>
+      <Description>"物品編號"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0018FD00</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>190</ID>
+      <Description>"陳列品2 名稱PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>C</Offset>
+        <Offset>8</Offset>
+        <Offset>0</Offset>
+        <Offset>668</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>191</ID>
+          <Description>"陳列品1 名稱"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+949FF8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>C</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>668</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1705</ID>
+      <Description>"物品ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0018FD00</Address>
+      <Offsets>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1706</ID>
+      <Description>"物品數量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0018FD00</Address>
+      <Offsets>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>130</ID>
+      <Description>"LOG尾字數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA200</Address>
+      <Offsets>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>124</ID>
+      <Description>"LOG頭字數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA1FC</Address>
+      <Offsets>
+        <Offset>14</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1657</ID>
+      <Description>"6-登入 10-選伺服 11-選角色"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E2D9C</Address>
+      <Offsets>
+        <Offset>D4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>255</ID>
+      <Description>"?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>17C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>197</ID>
+      <Description>"?臬?1?遙"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>62A</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>198</ID>
+      <Description>"?臬?1靽∟陷摨?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>62C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>199</ID>
+      <Description>"?臬?1?芣絲??"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>870</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>200</ID>
+      <Description>"?臬?1霅行???"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>871</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>201</ID>
+      <Description>"?臬?1銝餉???"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>872</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>202</ID>
+      <Description>"?臬?1?恣"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>873</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>203</ID>
+      <Description>"?臬?1?菟"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>874</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>204</ID>
+      <Description>"?臬?1?寥"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>875</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>205</ID>
+      <Description>"?臬?2ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>88C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>206</ID>
+      <Description>"?臬?2??PTR"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>890</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>208</ID>
+      <Description>"?臬?2?遙"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>8C2</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>209</ID>
+      <Description>"?臬?2靽∟陷摨?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>8C4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>253</ID>
+      <Description>"?箸雿?2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D91C</Address>
+      <Offsets>
+        <Offset>8E4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2081</ID>
+      <Description>"基本位址1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A1BCF8</Address>
+      <Offsets>
+        <Offset>6BC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2082</ID>
+      <Description>"基本位址1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A1BCF8</Address>
+      <Offsets>
+        <Offset>908</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>210</ID>
+      <Description>"?臬?2?芣絲??"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B08</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>211</ID>
+      <Description>"?臬?1霅行???"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B09</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>212</ID>
+      <Description>"?臬?1銝餉???"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B0A</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>213</ID>
+      <Description>"?臬?1?恣"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B0B</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>214</ID>
+      <Description>"?臬?1?菟"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B0C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>215</ID>
+      <Description>"?臬?1?寥"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+      <Offsets>
+        <Offset>B0D</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>171</ID>
+      <Description>"持有船隻0編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>5E8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1202</ID>
+      <Description>"KOEIhokm"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>KOEIhokm.dll</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1701</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0018FCFC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1702</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0018FD4C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1204</ID>
+      <Description>"GVONetRs"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>GVONetRs.dll</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>232</ID>
+      <Description>"==????????"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1008</ID>
+      <Description>"==OFFSET"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1293</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1298</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1769</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1770</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1782</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1786</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1787</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1788</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1789</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1790</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1773</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1771</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1772</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1779</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1776</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1775</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1774</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1780</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1781</ID>
+      <Description>"==OFFSET 1000"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"==基本位址1 OFFSET"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>216</ID>
+      <Description>"==基本位址2OFFSET"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>252</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+496531</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1207</ID>
+      <Description>"選擇第N委託"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>90</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1561</ID>
+      <Description>"持有物品數/50"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>2DC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>225</ID>
+      <Description>"技能資訊欄PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>368</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>226</ID>
+      <Description>"習得技能數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>36C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"最大習得技能數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>370</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>170</ID>
+      <Description>"目前選擇 船 Index"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5E0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>175</ID>
+      <Description>"(買入交易物品)當前陳列品ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1189</ID>
+      <Description>"持有船隻數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>194</ID>
+      <Description>"?臬?1??ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5F4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>176</ID>
+      <Description>"(買入交易物品)購買金額"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5F8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>195</ID>
+      <Description>"?臬?1??PTR"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>5F8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>177</ID>
+      <Description>"(買入交易物品)當前載貨量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>600</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>178</ID>
+      <Description>"(買入交易物品)最大載貨量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>608</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1205</ID>
+      <Description>"持有物品數/50"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>618</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>167</ID>
+      <Description>"買入交易物品PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>179</ID>
+      <Description>"(買入交易物品)共N項陳列品"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>628</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1433</ID>
+      <Description>"交易物品數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>628</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1435</ID>
+      <Description>"出售交易物品PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>634</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1271</ID>
+      <Description>"技能情報 - 選擇頁面"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>63C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>218</ID>
+      <Description>"憟?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>630</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>180</ID>
+      <Description>"(買入交易物品)第N項陳列品"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>74C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1623</ID>
+      <Description>"選擇配方Index"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>750</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1618</ID>
+      <Description>"配方數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>770</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1715</ID>
+      <Description>"持有物品 選擇的項次"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>7AC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>169</ID>
+      <Description>"?豢??遙?洵撟暸?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>864</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1656</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E85BC</Address>
+      <Offsets>
+        <Offset>D4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>134</ID>
+      <Description>"LOG內容"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>30</Length>
+      <Unicode>1</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>GVOnline.bin+8EA378</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>720</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+868754</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>721</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B7890</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>307</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B7C78</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>320</ID>
+      <Description>"?箏?撠情PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B7C98</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>306</ID>
+      <Description>"???絲???"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B7D58</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>236</ID>
+      <Description>"鈭斗??????"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B825C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>237</ID>
+      <Description>"鈭斗??????"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8B8278</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1200</ID>
+      <Description>"F6"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D6160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1199</ID>
+      <Description>"F7"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D617C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1198</ID>
+      <Description>"F8"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D6198</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1197</ID>
+      <Description>"怒氣值"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D6214</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1196</ID>
+      <Description>"MAX怒氣值"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D6218</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1212</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D621C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1213</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8D6220</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1274</ID>
+      <Description>"ping?"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8DA43C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1663</ID>
+      <Description>"1-? 2-斷線"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8DFED8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1646</ID>
+      <Description>"2-斷線"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8DFED8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1796</ID>
+      <Description>"文字訊息"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E00C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1797</ID>
+      <Description>"文字訊息 &gt;1 有文字"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E00CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1273</ID>
+      <Description>"忙碌中"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E03F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1275</ID>
+      <Description>"???"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0404</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1276</ID>
+      <Description>"瘚瑟(1-劇情 2-陸戰 4-)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0408</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1280</ID>
+      <Description>"海域座標PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E040C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1281</ID>
+          <Description>"海域座標X"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E040C</Address>
+          <Offsets>
+            <Offset>12C</Offset>
+            <Offset>4</Offset>
+            <Offset>3F8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1282</ID>
+          <Description>"海域座標Y"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E040C</Address>
+          <Offsets>
+            <Offset>130</Offset>
+            <Offset>4</Offset>
+            <Offset>3F8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1283</ID>
+      <Description>"TAB目標type"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0424</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1284</ID>
+      <Description>"TAB目標ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0428</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1285</ID>
+      <Description>"TAB目標按鈕數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0478</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1286</ID>
+      <Description>"?"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0854</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1405</ID>
+      <Description>"視窗底層欄位址2PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0868</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1406</ID>
+          <Description>"視窗底層欄位址2"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E0868</Address>
+          <Offsets>
+            <Offset>20</Offset>
+            <Offset>20</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1746</ID>
+      <Description>"1-場景切換 2-斷線"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E0ED8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1745</ID>
+      <Description>"物資-保存的數量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E2388</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1744</ID>
+      <Description>"物資-保存的數量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E238C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1743</ID>
+      <Description>"資材-保存的數量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E2390</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1742</ID>
+      <Description>"彈藥-保存的數量"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E2394</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1681</ID>
+      <Description>"login用"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E3D9C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1682</ID>
+          <Description>"6-登入 10-選伺服 11-選角色"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E3D9C</Address>
+          <Offsets>
+            <Offset>D4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1647</ID>
+      <Description>"1-斷線"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E4588</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1768</ID>
+      <Description>"陸地跟隨ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5CB0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1767</ID>
+      <Description>"船帆狀態 0-停船 1 2 3 4-全帆"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5CB4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1766</ID>
+      <Description>"海上跟隨ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5D20</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1760</ID>
+      <Description>"移動CALL用"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5D74</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1761</ID>
+          <Description>"COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+8E5D74</Address>
+          <Offsets>
+            <Offset>F4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1762</ID>
+          <Description>"SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+8E5D74</Address>
+          <Offsets>
+            <Offset>FC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1763</ID>
+          <Description>"移動COS"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+8E5D74</Address>
+          <Offsets>
+            <Offset>104</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1764</ID>
+          <Description>"移動SIN"</Description>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>GVOnline.bin+8E5D74</Address>
+          <Offsets>
+            <Offset>10C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1765</ID>
+          <Description>"移動"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5D74</Address>
+          <Offsets>
+            <Offset>114</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1759</ID>
+      <Description>"活動對象Base"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5D7C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1758</ID>
+      <Description>"目前場景的活動對象數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5D84</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1757</ID>
+      <Description>"固定對象Base"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5D9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1756</ID>
+      <Description>"目前場景的固定對象數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5DA4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1355</ID>
+      <Description>"城市海域PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5DBC</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1357</ID>
+          <Description>"地下城名"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>30</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E5DBC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>80</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1356</ID>
+          <Description>"城市海域名"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>30</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E5DBC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1360</ID>
+      <Description>"城市海域PTR(上一層)"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5DC0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1361</ID>
+          <Description>"城市海域名(上一層)"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>30</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E5DC0</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1363</ID>
+      <Description>"地圖編號"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5E5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1364</ID>
+      <Description>"城市、海域編號"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E5E5E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1365</ID>
+      <Description>"場景"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E5E5F</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1366</ID>
+      <Description>"艦隊PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E5E64</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1368</ID>
+          <Description>"隊友1 NAME"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1369</ID>
+          <Description>"隊友2 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1370</ID>
+          <Description>"隊友2 NAME"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1371</ID>
+          <Description>"隊友3 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1372</ID>
+          <Description>"隊友3 NAME"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1367</ID>
+          <Description>"隊友1 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E4E64</Address>
+          <Offsets>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1793</ID>
+      <Description>"F1"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6288</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1794</ID>
+          <Description>"技巧必要計量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E628C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1795</ID>
+          <Description>"技巧可否使用"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E6290</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1792</ID>
+      <Description>"F2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6294</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1791</ID>
+      <Description>"F3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E62A0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1421</ID>
+      <Description>"技能名稱Base"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6344</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1425</ID>
+      <Description>"交易品類型Base2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6360</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1426</ID>
+      <Description>"交易品類型Base1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E637C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1573</ID>
+      <Description>"配方Base"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E63B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1427</ID>
+      <Description>"場景名稱Base"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E64B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1428</ID>
+      <Description>"道具、裝備、交易品名稱Base"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6868</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1785</ID>
+      <Description>"戰鬥標誌"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6944</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1784</ID>
+      <Description>"友方提督ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E69B0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1783</ID>
+      <Description>"敵方提督ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E69B4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1466</ID>
+      <Description>"友方ID1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E69C4</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1478</ID>
+          <Description>"血量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1468</ID>
+          <Description>"MAX血量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1469</ID>
+          <Description>"攻擊力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1479</ID>
+          <Description>"防禦力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1480</ID>
+          <Description>"戰等"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1481</ID>
+          <Description>"人物狀態"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1482</ID>
+          <Description>"狀態小圖案"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1483</ID>
+          <Description>"使用技巧狀態"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E59F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1484</ID>
+          <Description>"人物動作"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5A08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1485</ID>
+          <Description>"行動力MAX"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5A10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1486</ID>
+          <Description>"行動力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5A14</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1487</ID>
+      <Description>"友方ID2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6A28</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1488</ID>
+      <Description>"友方ID3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6A8C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1489</ID>
+      <Description>"友方ID4"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6AF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1490</ID>
+      <Description>"友方ID5"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6B54</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1496</ID>
+      <Description>"敵方ID1"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6DAC</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1505</ID>
+          <Description>"敵方血量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DB0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1506</ID>
+          <Description>"敵方MAX血量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1507</ID>
+          <Description>"敵方攻擊力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1508</ID>
+          <Description>"敵方防禦力"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DC8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1509</ID>
+          <Description>"敵方人物狀態"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DD8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1510</ID>
+          <Description>"敵方狀態小圖案"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DDC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1511</ID>
+          <Description>"敵方使用技巧狀態"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E5DE0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1492</ID>
+      <Description>"敵方ID2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6E10</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1493</ID>
+      <Description>"敵方ID3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6E74</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1494</ID>
+      <Description>"敵方ID4"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6ED8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1495</ID>
+      <Description>"敵方ID5"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E6F3C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1512</ID>
+      <Description>"陸戰-選定目標"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E719C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1515</ID>
+      <Description>"F5"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E71A4</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1517</ID>
+          <Description>"必要計量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8B8FFC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1518</ID>
+          <Description>"使用對象"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8B9000</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1519</ID>
+          <Description>"是否可用"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8B9004</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1520</ID>
+          <Description>"持有數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8CA058</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1521</ID>
+          <Description>"必要計量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8CA05C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1516</ID>
+          <Description>"持有數量"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E61A8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1522</ID>
+      <Description>"陸戰-攻擊目標"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E7284</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1525</ID>
+      <Description>"跳過甲板戰&amp;競技場演出"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E7418</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1528</ID>
+      <Description>"剩於演出時間"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E7430</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1527</ID>
+      <Description>"剩於戰鬥時間"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E7434</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1526</ID>
+      <Description>"競技場得分"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E746C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1529</ID>
+      <Description>"已過戰鬥時間"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E7478</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1530</ID>
+      <Description>"隊友1 PASS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E7484</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1531</ID>
+      <Description>"隊友2 PASS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E748C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1532</ID>
+      <Description>"隊友3 PASS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E7494</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1533</ID>
+      <Description>"隊友4 PASS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E749C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1534</ID>
+      <Description>"隊友5 PASS"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E74A4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1383</ID>
+      <Description>"技能欄PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E8368</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1384</ID>
+          <Description>"技能欄技能數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8368</Address>
+          <Offsets>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1386</ID>
+      <Description>"自訂欄PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E8384</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1387</ID>
+          <Description>"自訂欄F1 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8384</Address>
+          <Offsets>
+            <Offset>4</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1388</ID>
+          <Description>"自訂欄F2 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8384</Address>
+          <Offsets>
+            <Offset>4</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1362</ID>
+      <Description>"小地圖(城市)編號"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E856A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1374</ID>
+      <Description>"風向COS"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E862C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1375</ID>
+      <Description>"風向SIN"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E8634</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1376</ID>
+      <Description>"潮流COS"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E863C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1377</ID>
+      <Description>"潮流SIN"</Description>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>GVOnline.bin+8E8644</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1378</ID>
+      <Description>"風速"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E864C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1379</ID>
+      <Description>"潮流"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E864D</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1380</ID>
+      <Description>"波浪"</Description>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E864E</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1381</ID>
+      <Description>"天氣"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>Byte</VariableType>
+      <Address>GVOnline.bin+8E8651</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1382</ID>
+      <Description>"航行天數"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E8654</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1777</ID>
+      <Description>"地下城Code Addr"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E8894</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1778</ID>
+          <Description>"地下城Code"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8E8894</Address>
+          <Offsets>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1649</ID>
+      <Description>"14-斷線"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8E8B5C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1551</ID>
+      <Description>"角色身上跳出的訊息PTR頭"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA16C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1257</ID>
+          <Description>"文字編號"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EA16C</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1550</ID>
+      <Description>"角色身上跳出的訊息PTR尾"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA170</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1549</ID>
+      <Description>"角色身上跳出的訊息"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA174</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1693</ID>
+      <Description>"LOG頭PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA1FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1694</ID>
+      <Description>"LOG尾PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA200</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1697</ID>
+      <Description>"LOG內容PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EA378</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1548</ID>
+      <Description>"跳出的訊息框PTR頭"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EF4F4</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1251</ID>
+          <Description>"跳出的訊息框(物品ID)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EF4F4</Address>
+          <Offsets>
+            <Offset>24</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1252</ID>
+          <Description>"跳出的訊息框(物品數量)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+8EF4F4</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1237</ID>
+          <Description>"跳出的訊息框文字"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>20</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+8EF4F4</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>20</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1547</ID>
+      <Description>"跳出的訊息框PTR尾"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EF4F8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1544</ID>
+      <Description>"跳出的訊息框"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+8EF4FC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>718</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9215E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>719</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9215E8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>304</ID>
+      <Description>"?箸雿?1"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D918</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>305</ID>
+      <Description>"?箸雿?2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92D91C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>722</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+92DA48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1270</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+94A100</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>142</ID>
+      <Description>"使用中技能數PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+94FC8C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"使用中技能數"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+94FC8C</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"技能1 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+94FC8C</Address>
+          <Offsets>
+            <Offset>C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"技能2 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+94FC8C</Address>
+          <Offsets>
+            <Offset>14</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"技能3 ID"</Description>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+94FC8C</Address>
+          <Offsets>
+            <Offset>1C</Offset>
+            <Offset>28</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1802</ID>
+      <Description>"封包 PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9514B0</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1804</ID>
+          <Description>"加密封包data"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+9514B0</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>1C8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1581</ID>
+      <Description>"基本位址1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1644</ID>
+      <Description>"???"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B13C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1645</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B140</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1650</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B144</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1563</ID>
+      <Description>"視窗底層欄位址1PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B158</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1564</ID>
+          <Description>"視窗底層欄位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+95B158</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1624</ID>
+              <Description>"配方ID(生產時)"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+95B158</Address>
+              <Offsets>
+                <Offset>69C</Offset>
+                <Offset>8</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1575</ID>
+              <Description>"配方書籍"</Description>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+95B158</Address>
+              <Offsets>
+                <Offset>68C</Offset>
+                <Offset>8</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1651</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B15C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1684</ID>
+      <Description>"視窗多層欄位址1PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B15C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1685</ID>
+          <Description>"視窗多層欄位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+95B15C</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1689</ID>
+              <Description>"生產-連續生產"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+95B15C</Address>
+              <Offsets>
+                <Offset>FF0</Offset>
+                <Offset>8</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1690</ID>
+              <Description>"生產BOX 3-變黑 1-無"</Description>
+              <Color>80000008</Color>
+              <VariableType>2 Bytes</VariableType>
+              <Address>GVOnline.bin+95B15C</Address>
+              <Offsets>
+                <Offset>ED6</Offset>
+                <Offset>8</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1653</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1687</ID>
+      <Description>"視窗共幾層(1-對話框"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1652</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B164</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1654</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95BC40</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1397</ID>
+      <Description>"基本位址1"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C0D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1398</ID>
+      <Description>"基本位址2"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C0DC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1399</ID>
+      <Description>"滑鼠所指的位址"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C0E4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1658</ID>
+      <Description>"視窗底層欄位址1PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C158</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1676</ID>
+          <Description>"視窗底層欄位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+95C158</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1678</ID>
+              <Description>"CHECK"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+95C158</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>8</Offset>
+                <Offset>0</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1675</ID>
+      <Description>"視窗多層欄位址1PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C15C</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1677</ID>
+          <Description>"視窗多層欄位址1"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>GVOnline.bin+95C15C</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1679</ID>
+              <Description>"CHECK"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>GVOnline.bin+95C15C</Address>
+              <Offsets>
+                <Offset>0</Offset>
+                <Offset>8</Offset>
+                <Offset>4</Offset>
+              </Offsets>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1669</ID>
+      <Description>"視窗共幾層"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95C160</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1419</ID>
+      <Description>"CuisineSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+990000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1420</ID>
+      <Description>"BookSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9A0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1418</ID>
+      <Description>"SeaItemSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9B0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1417</ID>
+      <Description>"LandItemSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9C0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1416</ID>
+      <Description>"SPACE3"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9D0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1415</ID>
+      <Description>"TextSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9E0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1414</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9F0000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2072</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A00000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2073</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A20000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2074</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A50000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2075</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A60000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2076</ID>
+      <Description>"PostSPACE"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+A70000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>302</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>KOEItlbm.dll+C0FC</Address>
+      <Offsets>
+        <Offset>2C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>301</ID>
+      <Description>"pointerscan result"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>KOEItlbm.dll+C0FC</Address>
+      <Offsets>
+        <Offset>54</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1630</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0627A188</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1631</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0627A2D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1632</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0627A418</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1629</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>06327AAC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1633</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>063302B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1634</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>063302D8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1628</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0636DB08</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1627</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0636E300</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1203</ID>
+      <Description>"KSndStr"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>00000000</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1635</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A17DD2C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1636</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A17DDCC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1637</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A17DF4C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1638</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A17E00C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1639</ID>
+      <Description>"No description"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>0A17E0AC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1201</ID>
+      <Description>"KOEItlbm"</Description>
+      <Color>80000008</Color>
+      <VariableType>String</VariableType>
+      <Length>20</Length>
+      <Unicode>0</Unicode>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>KOEItlbm.dll</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1592</ID>
+      <Description>"配方1ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>A08</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1619</ID>
+      <Description>"配方2ID"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>30</Offset>
+        <Offset>A08</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>219</ID>
+      <Description>"任務1ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>2C0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>220</ID>
+      <Description>"任務名1PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>2C0</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>221</ID>
+          <Description>"任務名1"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+95B0DC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>2C0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>222</ID>
+      <Description>"任務2ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>68</Offset>
+        <Offset>2C0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>223</ID>
+      <Description>"任務名2PTR"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>6C</Offset>
+        <Offset>2C0</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>224</ID>
+          <Description>"任務名2"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+95B0DC</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>6C</Offset>
+            <Offset>2C0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>181</ID>
+      <Description>"陳列品1 ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>182</ID>
+      <Description>"陳列品1 名稱PTR"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0D8</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>624</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"陳列品1 名稱"</Description>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>10</Length>
+          <Unicode>1</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>GVOnline.bin+949FF8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>624</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>254</ID>
+      <Description>"閱覽書籍(連續閱覽)"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+949FF8</Address>
+      <Offsets>
+        <Offset>8E4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>716</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9215E4</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>717</ID>
+      <Description>"No description"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+9215E8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>228</ID>
+      <Description>"技能ID"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>368</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>229</ID>
+      <Description>"技能Rank"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>4</Offset>
+        <Offset>368</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>230</ID>
+      <Description>"技能熟練度"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>6</Offset>
+        <Offset>368</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>231</ID>
+      <Description>"技能升級熟練度"</Description>
+      <Color>80000008</Color>
+      <VariableType>2 Bytes</VariableType>
+      <Address>GVOnline.bin+95B0DC</Address>
+      <Offsets>
+        <Offset>8</Offset>
+        <Offset>368</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

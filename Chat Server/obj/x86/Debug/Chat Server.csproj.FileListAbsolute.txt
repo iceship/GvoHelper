@@ -1,0 +1,28 @@
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\bin\Debug\Chat Server.exe.manifest
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\bin\Debug\Chat Server.application
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\bin\Debug\Chat Server.exe
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\bin\Debug\Chat Server.pdb
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.TrustInfo.xml
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.exe.manifest
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.application
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.exe
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.pdb
+C:\Users\Deeplife\Desktop\GvoHelper\Chat Server\obj\x86\Debug\Chat_Server.Form1.resources
+E:\GvoHelper\Chat Server\bin\Debug\Chat Server.exe.manifest
+E:\GvoHelper\Chat Server\bin\Debug\Chat Server.application
+E:\GvoHelper\Chat Server\bin\Debug\Chat Server.exe
+E:\GvoHelper\Chat Server\bin\Debug\Chat Server.pdb
+E:\GvoHelper\Chat Server\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat_Server.Form1.resources
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat_Server.Properties.Resources.resources
+E:\GvoHelper\Chat Server\obj\x86\Debug\ResGen.read.1.tlog
+E:\GvoHelper\Chat Server\obj\x86\Debug\ResGen.write.1.tlog
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.TrustInfo.xml
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.exe.manifest
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.application
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.exe
+E:\GvoHelper\Chat Server\obj\x86\Debug\Chat Server.pdb

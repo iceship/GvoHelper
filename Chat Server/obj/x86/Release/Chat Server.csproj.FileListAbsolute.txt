@@ -1,0 +1,16 @@
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.csprojResolveAssemblyReference.cache
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat_Server.Form1.resources
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat_Server.Properties.Resources.resources
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.csproj.GenerateResource.Cache
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.TrustInfo.xml
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.exe.manifest
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.exe
+E:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.pdb
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.csprojResolveAssemblyReference.cache
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat_Server.Form1.resources
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat_Server.Properties.Resources.resources
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.csproj.GenerateResource.Cache
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.TrustInfo.xml
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.exe.manifest
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.exe
+D:\GvoHelper\Chat Server\obj\x86\Release\Chat Server.pdb
